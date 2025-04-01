@@ -1,7 +1,7 @@
-# Word Filtering Script
+# wordle bot
 
 ## Overview
-The `main.py` script is a Python program designed for filtering words based on various constraints. It allows users to input a word and specify whether the letters are "bad," "wrong," or "good." Based on this input, the program intelligently determines the possible valid words that align with the provided constraints.
+The `main.py` script is a Python program designed for filtering words in wordle based on various constraints. It allows users to input a word and specify whether the letters are "bad," "wrong," or "good." Based on this input, the program intelligently determines the possible valid words that align with the provided constraints.
 
 The script primarily filters words from a file called `words.txt`.
 
